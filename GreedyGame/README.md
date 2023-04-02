@@ -1,7 +1,7 @@
 # Data-Analytics-Case-Study
     
 
-         
+       ![Analytics](Data--Analytics-Case-Study/Analytics.jpg)  
  
     Each case-study folder contains the following files:
 
@@ -17,7 +17,7 @@
 Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/nitesh-gautam-2a7a87209/) 🌐
-![Analytics](Analytics.jpg)
+ 
 
 
 ## TECHNOLOGIES USED:
