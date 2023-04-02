@@ -1,0 +1,18 @@
+with revenue_per_user as 
+(select  utm_source, user_id, sum(total_revenue_in_paise) as total_revenue from
+user_signup_data  
+Join  user_offer_completion_data on user_signup_data.user_id=user_offer_completion_data.user_id      
+Join   rewards_details on 
+user_offer_completion_data.reward_id = rewards_details.reward_id 
+group by utm_source,user_id )
+,ARPU as 
+(select utm_source ,avg(total_revenue) as avg_revenue_per_user  from      revenue_per_user 
+Group by utm_source)
+,customer_lifetime as 
+(select utm_source , avg(datediff(day , last_login_at – created_at) as avg_customer_lifetime
+From user_signup_data
+Group by utm_source )
+select utm_source, round((avg_revenue_per_user * avg_customer_lifetime )/ 100, 0)as ltv 
+from  ARPU as A
+join customer_lifetime as cl on A.utm_source = cl.utm_source 
+order by ltv desc;
