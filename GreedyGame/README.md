@@ -1,14 +1,14 @@
 # Data-Analytics-Case-Study
     
 
-       ![Analytics](Data--Analytics-Case-Study/Analytics.jpg)  
+       ![Analytics](Data--Analytics-Case-Study/Analytics.jpeg)  
  
     Each case-study folder contains the following files:
 
        • A readme file explaining the problem statement and datasets used.
-       •SQL file to create the schema, tables and loading data.
-       •SqlScript files which contains SQL queries answering the respective challenge questions.
-       •Also Contains Some visulaizations for some Questions with help of excel and Tableau.
+     •SQL file to create the schema, tables and loading data.
+     •SqlScript files which contains SQL queries answering the respective challenge questions.
+     •Also Contains Some visulaizations for some Questions with help of excel and Tableau.
      
                     
 
