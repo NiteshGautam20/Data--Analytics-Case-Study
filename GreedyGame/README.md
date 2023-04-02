@@ -1,7 +1,7 @@
 #  Data Analytics Case Study
 ![Analytics](Analytics.jpg)
  
-
+[Go to my LinkedIn](https://www.linkedin.com/in/nitesh-gautam-2a7a87209/) 🌐
  
  
 
