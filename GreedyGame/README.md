@@ -1,16 +1,6 @@
-#  Data Analytics Case Study
-
-
-
-
-
-
+# Data-Analytics-Case-Study
 ![Analytics](Analytics.jpg)
  
- 
- 
- 
-
  Each case-study folder contains the following files:
 
      • A readme file explaining the problem statement and datasets used.
