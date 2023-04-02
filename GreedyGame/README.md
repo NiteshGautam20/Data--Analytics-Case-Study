@@ -1,6 +1,6 @@
-##  Data Analytics Case Study
-
- ![Alt Text](https://github.com/NiteshGautam20/Data-Analytics-Case-Study/blob/main/Analytics.jpg)
+#  Data Analytics Case Study
+![Analytics](Analytics.jpg)
+ 
 
  
  
