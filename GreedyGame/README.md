@@ -1,8 +1,7 @@
 # Data-Analytics-Case-Study
     
 
-       ![Analytics](Data--Analytics-Case-Study/Analytics.jpeg)  
- 
+   bjafjwb
     Each case-study folder contains the following files:
 
        • A readme file explaining the problem statement and datasets used.
