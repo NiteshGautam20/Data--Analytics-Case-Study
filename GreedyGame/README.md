@@ -1,5 +1,11 @@
 # Data-Analytics-Case-Study
-    ![Analytics](Analytics.jpg)
+    
+
+          
+    
+
+     
+                   ![Analytics](Analytics.jpg)
  
     Each case-study folder contains the following files:
 
