@@ -10,9 +10,7 @@
 
 
 
-
-
-Data--Analytics-Case-Study/Analytics.jpg
+ 
 
 Each case-study folder contains the following files:
 
