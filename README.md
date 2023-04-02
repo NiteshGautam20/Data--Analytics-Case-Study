@@ -37,6 +37,12 @@ Lets Connect
 
 ## NOTE: Solutions are coded in MySQL
 
+## Challenge Case Studies:
+
+
+[💲Case Study #1 -GreedyGame](https://github.com/NiteshGautam20/Data--Analytics-Case-Study/tree/main/GreedyGame) 
+
+
      
 
 
