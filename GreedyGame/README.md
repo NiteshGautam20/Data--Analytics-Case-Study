@@ -10,13 +10,14 @@
        •SqlScript files which contains SQL queries answering the respective challenge questions.
        •Also Contains Some visulaizations for some Questions with help of excel and Tableau.
      
-                   ![Analytics](Analytics.jpg)
+                    
 
 ## LINKS: 
 
 Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/nitesh-gautam-2a7a87209/) 🌐
+![Analytics](Analytics.jpg)
 
 
 ## TECHNOLOGIES USED:
