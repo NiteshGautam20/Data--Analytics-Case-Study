@@ -1,6 +1,6 @@
 # Data-Analytics-Case-Study
     
-![Alt Text](Spotify.jfif)
+![Alt Text](Spotify.gif)
  
     
 
