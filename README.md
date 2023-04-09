@@ -40,8 +40,8 @@ Lets Connect
 ## Challenge Case Studies:
 
 
-[💲Case Study #1 -GreedyGame](https://github.com/NiteshGautam20/Data--Analytics-Case-Study/tree/main/GreedyGame)
-[🎧Case Study #2 -Spotify](https://github.com/NiteshGautam20/Data--Analytics-Case-Study/tree/main/Spotify)  
+•[💲Case Study #1 -GreedyGame](https://github.com/NiteshGautam20/Data--Analytics-Case-Study/tree/main/GreedyGame)
+•[🎧Case Study #2 -Spotify](https://github.com/NiteshGautam20/Data--Analytics-Case-Study/tree/main/Spotify)  
 
 
      
