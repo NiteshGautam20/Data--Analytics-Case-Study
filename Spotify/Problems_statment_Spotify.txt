@@ -1,0 +1,65 @@
+CREATE table Spotify_activity
+(
+user_id varchar(20),
+event_name varchar(20),
+event_date date,
+country varchar(20)
+);
+delete from Spotify_activity;
+insert into Spotify_activity values (1,'app-installed','2022-01-01','India')
+,(1,'app-purchase','2022-01-02','India')
+,(2,'app-installed','2022-01-01','USA')
+,(3,'app-installed','2022-01-01','USA')
+,(3,'app-purchase','2022-01-03','USA')
+,(4,'app-installed','2022-01-03','India')
+,(4,'app-purchase','2022-01-03','India')
+,(5,'app-installed','2022-01-03','SL')
+,(5,'app-purchase','2022-01-03','SL')
+,(6,'app-installed','2022-01-04','Pakistan')
+,(6,'app-purchase','2022-01-04','Pakistan');
+
+-- Spotify_Activity table show the app-installed and app purchased activites for spotify app along with country details:
+
+ /*Que1 Find the Total Active users each day ?
+ event_date    Total_active_users
+ 2022-01-01      3
+ 2022-01-02      1
+ 2022-01-03      3
+ 2022-01-04      1 
+ */
+
+
+/*Que2- Find total active users each week ?
+
+Week_number        Total_active_users
+1                     3
+2                     5 
+*/
+
+
+/* Que-3 Find the date Wise total number of users who made the purchase same day they installed the app?
+
+event_date          no_of_users_same_day_purchase
+2022-01-01           0
+2022-01-02           0
+2022-01-03           2
+2022-01-04           1
+*/
+
+
+/* Que-4 Find the percentage of paid users in India ,usa , and any other should be taged as other?
+
+Country   Percentage_users
+India     40
+USA       20
+Other     40
+*/
+
+/* Que-5 Among all the users who installed app on given day , how many did in app purchased on the very next day -- day wise result 
+
+event_date       cnt_users
+2022-01-01          0
+2022-01-02          1
+2022-01-03          0
+2022-01-04          0
+*/
