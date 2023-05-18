@@ -1,7 +1,7 @@
 #  Data Analytics Case Study
 
  ![Alt Text](Analytics.jpg)
- 
+  
  
 
  Each case-study folder contains the following files:
